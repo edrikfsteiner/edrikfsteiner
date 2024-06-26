@@ -1,7 +1,7 @@
 ## Edrik Steiner
 
 ## About Me
--Enrolled in Software Engineering (3rd stage) - UNISATC
+-Enrolled in Software Engineering (4th stage) - UNISATC
 
 ## Languages and Tools
 
