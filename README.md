@@ -1,7 +1,7 @@
 ## Edrik Steiner
 
 ## About Me
-- Enrolled in Software Engineering (4th stage) at UNISATC
+- Enrolled in Software Engineering (5th stage) at UNISATC
 - Development Intern at Betha Sistemas
 
 ## Languages and Tools
